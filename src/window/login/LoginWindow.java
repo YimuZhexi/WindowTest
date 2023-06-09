@@ -3,8 +3,6 @@ package window.login;
 import dataManager.DataManager;
 
 import javax.swing.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 
 public class LoginWindow {
     public static void placeComponents(JPanel panel) {
